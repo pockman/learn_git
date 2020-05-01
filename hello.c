@@ -1,4 +1,12 @@
 #include <stdio.h>
+int sum(unsigned int n) {
+    int s = 0;
+    for (int i=1; i<=n; i++) s+=n;
+    return s;
+}
+
+
+
 int  mul(int a, int b) {
     return a * b;
 }
