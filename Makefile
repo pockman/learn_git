@@ -1,3 +1,4 @@
+CFLAGS = -std=c99
 all: hello
 
 
