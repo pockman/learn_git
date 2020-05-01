@@ -2,7 +2,7 @@ all: hello
 
 
 
-.PHONY: clean
+.PHONY: clean fun
 
 clean:
 	cal
